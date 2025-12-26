@@ -180,15 +180,7 @@ Potential improvements that could be added:
 - Scientific calculator functions
 - Theme customization options
 
-## License
+## Screenshot
+<img width="807" height="601" alt="image" src="https://github.com/user-attachments/assets/23a27f21-d1c4-4c1d-96df-9db446e4348e" />
 
-This project is created for educational purposes.
-
-## Author
-
-Created as part of a web development project.
-
-## Version
-
-Version 1.0.0
 
